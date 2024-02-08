@@ -22,7 +22,7 @@ const NuevoPresupuesto = ({
   return (
     <div className="contenedor-presupuesto contenedor sombra">
       <form className="formulario">
-        <div className="campo">
+        <div className="campo-presupuesto">
           <label>Definir presupuesto</label>
           <input
             className="nuevo-presupuesto"
